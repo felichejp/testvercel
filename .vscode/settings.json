@@ -1,1 +1,13 @@
-{}
+{
+  "database-client.connections": [
+    {
+      "name": "Neon - neondb",
+      "driver": "PostgreSQL",
+      "host": "ep-crimson-brook-auw1vt4y-pooler.c-10.us-east-1.aws.neon.tech",
+      "port": 5432,
+      "user": "neondb_owner",
+      "database": "neondb",
+      "useSSL": true
+    }
+  ]
+}
